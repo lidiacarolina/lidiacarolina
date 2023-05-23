@@ -19,7 +19,7 @@
                                                                                                
 </div>
 
-  ## 
+<br>
   
 <div style="margin-left:50px;" align="center"> 
   
@@ -32,7 +32,9 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@legolidia">
       <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
+  
+  ## 
 
-<img align="left" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+<img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
  
 </div>
