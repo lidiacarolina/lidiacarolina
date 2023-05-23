@@ -4,7 +4,6 @@
 - 👩🏻‍💻 Estudante de Ciência da Computação
 - 🎓 Universidade Presbiteriana Mackenzie
 - 🔗 https://beacons.ai/legolidia
-- 
 <br>
 
 <div align="center">
