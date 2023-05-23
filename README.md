@@ -4,13 +4,9 @@
 - 👩🏻‍💻 Estudante de Ciência da Computação
 - 🎓 Universidade Presbiteriana Mackenzie
 - 🔗 https://beacons.ai/legolidia
-
-<div align="center">
-  <a href="https://github.com/legolidia">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=legolidia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legolidia&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 
 <br>
+
 <div align="center">
   <img align="center" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
