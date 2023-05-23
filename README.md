@@ -3,6 +3,7 @@
 - Criadora de conteúdo de programação e tecnologia
 - 👩🏻‍💻 Estudante de Ciência da Computação
 - 🎓 Universidade Presbiteriana Mackenzie
+- 💻 Software Developer
 - 🔗 https://beacons.ai/legolidia
 <br>
 
