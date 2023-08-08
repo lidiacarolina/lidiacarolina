@@ -1,10 +1,7 @@
 ### Oi, meu nome é Lídia! 👋
 
-- Criadora de conteúdo de programação e tecnologia
 - 👩🏻‍💻 Estudante de Ciência da Computação
-- 🎓 Universidade Presbiteriana Mackenzie
-- 💻 Software Developer
-<br>
+- 💻 Software Developer | IPM
 
 <div align="left">
   <img align="center" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,6 +21,5 @@
   <a href="https://www.linkedin.com/in/lidiacarolinaandrade" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ## 
  
 </div>
