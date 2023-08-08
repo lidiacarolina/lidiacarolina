@@ -6,7 +6,7 @@
 - 💻 Software Developer
 <br>
 
-<div align="center">
+<div align="left">
   <img align="center" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,7 +16,7 @@
 
 <br>
   
-<div style="margin-left:50px;" align="center"> 
+<div align="left"> 
   
   <a href="https://www.instagram.com/legolidia/" target="_blank"> 
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
