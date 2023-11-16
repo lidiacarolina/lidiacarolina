@@ -1,7 +1,6 @@
 ### Oi, meu nome é Lídia! 👋
 
-- 👩🏻‍💻 Estudante de Ciência da Computação
-- 💻 Software Developer | IPM
+- 👩🏻‍💻 Estudante de Engenharia de Software
 
 <div align="left">
   <img align="center" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
