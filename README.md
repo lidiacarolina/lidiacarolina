@@ -1,6 +1,6 @@
 ### Oi, meu nome é Lídia! 👋
 
-- 👩🏻‍💻 Engenheira de Software Jr.
+- 👩🏻‍💻 Trainee de Engenheira de Software
   
 <div align="left">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
